@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Ukdah"
-summary: "PDF Certificate Generator"
+summary: "Full-Stack PDF Certificate Generator"
 authors: []
 tags: []
 categories: []
