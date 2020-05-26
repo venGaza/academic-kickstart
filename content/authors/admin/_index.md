@@ -14,7 +14,7 @@ role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Oregon State University
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,6 +68,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sometimes you don't know what you want until you just do. I had no clue what career I wanted to pursue after finishing college, but I did know that I wanted to live a life of adventure! Luckily, my path led me into the military where I had the opportunity to travel all over the world to lead various healthcare teams and hone my leadership ability. More importantly though it gave me time to reflect on what I wanted to do in life. I eventually realized it was time to hang up the boots and head out for my next adventure.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I decided to go back to school and learn how to program because tech was something that had always fascinated me. I remember coming across various articles on TechCrunch and being so envious of the projects being funded. These were people who saw problems that could be solved by leveraging technology. These were people who were trying to redefine the status quo. These were people who were busy building the future and I wanted to be one of them! I wanted to learn how to build and turn ideas into reality.
+
+As a new software engineer, I would very much describe myself as a generalist with an interest in machine learning, distributed systems, and security. My primary programming languages would be Python and Java, but I am fairly comfortable in C++ and JavaScript as well. If I had to choose between being a backend engineer and frontend engineer, I'd probably choose the backend since I like to tinker with the server and database. Ideally, I'm just looking to join an ambitious team working to solve complex problems with innovative solutions. If you have an opening, let's definitely chat and see if their is a fit. I'm also always open to discussing the military or tech (like the nuances of read committed isolation vs snapshot isolation) as well so don't be a stranger.
