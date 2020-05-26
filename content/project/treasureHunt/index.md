@@ -2,14 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "TreasureHunt"
-summary: "High fidelity mockup for a treasure hunting mobile application \n"
+summary: "My first foray into building a high fidelity mockup for a treasure hunting mobile application with Adobe XD. Check it out! "
 authors: []
 tags: ["UI UX"]
 categories: []
 date: 2020-05-26T16:08:53-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://xd.adobe.com/view/f1135a4f-0b98-4ea5-44d5-d6030aaeb56c-8722/?fullscreen"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
