@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Ukdah"
-summary: "Full-Stack PDF Certificate Generator"
+summary: "Full-Stack PDF certificate generator built using NodeJS, ExpressJS, and SQLite for capstone"
 authors: []
 tags: [Full Stack]
 categories: []
-date: 2020-05-24T17:35:45-05:00
+date: 2019-04-21T17:35:45-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -39,6 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+{{< figure src="demo.gif" title="" lightbox="true" >}}
+Check out the full project at my Github https://github.com/venGaza/ukdah
 
 Introduction: Awards play a critical role in recognizing employee accomplishments and boosting morale within an organization but most systems are out of date or too reliant upon an extensive human resources staff. The Ukdah team aims to solve this problem by working on a database-backed, responsive website which can be used to track and deliver employee recognition awards. The website will streamline the recognition process by giving users the ability to send recognition to those that they feel are deserving, and it will also provide critical business intelligence data to users overseeing the management of their awards program. Every employee deserves to be recognized for the value he/she brings to their respective organizations while organizations deserve a simple and effective solution to accomplish this. The Ukdah employee recognition website will lead the way!
 
