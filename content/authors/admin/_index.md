@@ -33,7 +33,7 @@ education:
     year: 2019
   - course: BSc in Biology
     institution: University of Colorado 
-    year: 2009
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

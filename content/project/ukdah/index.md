@@ -4,7 +4,7 @@
 title: "Ukdah"
 summary: "Full-Stack PDF Certificate Generator"
 authors: []
-tags: []
+tags: [Full Stack]
 categories: []
 date: 2020-05-24T17:35:45-05:00
 
@@ -16,8 +16,8 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
-  preview_only: false
+  focal_point: "Center"
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

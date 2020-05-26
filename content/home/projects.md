@@ -26,8 +26,16 @@ subtitle = ""
      tag = "*"
   
   [[content.filter_button]]
-     name = "Web Development"
-     tag = "Web Development"
+     name = "Full Stack"
+     tag = "Full Stack"
+  
+  [[content.filter_button]]
+     name = "UI UX"
+     tag = "UI UX"
+  
+  [[content.filter_button]]
+     name = "Machine Learning"
+     tag = "Machine Learning"
   
   # [[content.filter_button]]
   #   name = "Other"
