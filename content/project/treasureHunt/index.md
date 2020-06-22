@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "TreasureHunt"
-summary: "My first foray into building a high fidelity mockup for a treasure hunting mobile application with Adobe XD. Check it out! "
+summary: "My first foray into building a high fidelity mockup for a treasure hunting mobile application with Adobe XD. "
 authors: []
 tags: ["UI UX"]
 categories: []

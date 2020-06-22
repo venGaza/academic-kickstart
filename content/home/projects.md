@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -26,11 +26,11 @@ subtitle = ""
      tag = "*"
   
   [[content.filter_button]]
-     name = "Full Stack"
+     name = "Web Development"
      tag = "Full Stack"
   
   [[content.filter_button]]
-     name = "UI UX"
+     name = "User Experience"
      tag = "UI UX"
   
   [[content.filter_button]]
