@@ -7,7 +7,7 @@ date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   example:
-    parent: Beginner
+    parent: Beginner Quest
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -26,3 +26,24 @@ Ok well done. The console is on. It's asking for coordinates. Beating heavily on
 
 ## Solution
 
+Go ahead and download the Task Files and navigate to the folder in your command line client (I'll be using Linux). Using the `ls` command, we'll list out the files to determine what we have to work with. In this task, we are given two files: a .txt file and an executable binary.
+
+{{< figure library="true" src="googlectf2019/001invitation/sol1.png" title="List out files using ls" lightbox="true" >}}
+
+Let's go ahead and check what is in the text file. We'll use the `cat` command to print out the contents of the text tile to the console. Unfortunately, there does not seem to be anything of note here. 
+
+{{< figure library="true" src="googlectf2019/001invitation/sol2.png" title="Run CAT output of log.txt" lightbox="true" >}}
+
+Next, we will go ahead and execute the binary(If you do not have execute permission, run the following command `chmod +x`). It looks like this binary is the menu interface for the spaceship. Incidentally, the CTF destination is redacted and we get an error message when we input coordinates.
+
+{{< figure library="true" src="googlectf2019/001invitation/sol3.png" title="Run the binary file" lightbox="true" >}}
+
+Exit out of the program with `^c`. Let's see if we can brute force the flag out of the binary by running the `strings` command on the `./rand2` binary. This technique allows us to parse out the plain text from a binary file. We see that there are plenty of plain text strings within this file, so we need a fast way to search through. 
+
+{{< figure library="true" src="googlectf2019/001invitation/sol4.png" title="Run strings" lightbox="true" >}}
+
+Fortunately, GREP will come to the rescue. We'll pipe the output of strings into grep input using the following command `strings ./rand2 | grep flag`. There is our flag!
+
+{{< figure library="true" src="googlectf2019/001invitation/sol5.png" title="Grep the strings output" lightbox="true" >}}
+
+Flag:  `CTF{welcome_to_googlectf}`
