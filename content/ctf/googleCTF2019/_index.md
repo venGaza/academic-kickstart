@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Google CTF 2019
 summary: Google Capture the Flag competition
-weight: 1
+weight: 2
 
 # Page metadata.
 title: Overview

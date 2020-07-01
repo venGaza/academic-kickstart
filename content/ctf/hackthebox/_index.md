@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Hack the Box
 summary: An online platform to test and advance your skills in penetration testing and cyber security. Join today and start training in our online labs.
-weight: 1
+weight: 3
 
 # Page metadata.
 title: Overview
