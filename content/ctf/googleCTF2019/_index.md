@@ -23,6 +23,8 @@ menu:
 
 In this walkthrough, we'll go through each of the tasks from the Google 2019 CTF event. I thought it would be fun to document my journey learning various security concepts and reinforce the concepts by creating a few tutorials. 
 
+{{< figure library="true" src="googleLogo.png" width="30%"  title="" lightbox="true" >}}
+
 ## What is Google CTF
 
 Google runs a CTF competition in two rounds: an online qualification round and an onsite final round. The top 10 teams from the qualification round will be invited to the finals to compete onsite for a prize pool of more than USD $31,337. In addition to the grand prizes, some of the best and creative write-ups that we receive during the qualifying round will be rewarded as well. We want to give you an opportunity to share with the world the clever ways you solve challenges. 
